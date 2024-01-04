@@ -12,3 +12,6 @@
 
 # Data folder
 data/
+
+# Jupyter notebooks
+*.ipynb
